@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import numpy as np
 
-# Define CITY_DATA
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -43,7 +43,7 @@ def get_filters():
         day = input('Invalid day name.Try Again!')
         day = day.casefold()
 
-    # Print line to saperte the parts
+    
     print('-'*40)
     return city, month, day
 
