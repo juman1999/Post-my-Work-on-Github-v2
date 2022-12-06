@@ -16,3 +16,5 @@ washington.csv
 
 ### Credits
 I forked this repository https://github.com/udacity/pdsnd_github
+Also I checked this link https://www.freecodecamp.org/news/how-to-fork-a-github-repository/#:~:text=To%20follow%20along%2C%20browse%20to,created%20under%20your%20GitHub%20account.
+
